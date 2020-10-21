@@ -1,0 +1,11 @@
+#print("Hey what's your name?")
+name= input()
+#print("Hello, my name is "+name)
+print("Whats your fav num?")
+fav_num=int(input())
+#print("Names is " + name +" and fav num is " + fav_num)
+print("Give us another number")
+fav_num2=int(input())
+print( fav_num + fav_num2)
+
+#print(type(int("5")))
